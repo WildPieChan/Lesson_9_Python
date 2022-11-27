@@ -3,7 +3,9 @@
 ### Homework:
 
 <br/>
-1. Create a program for playing "Tic-Tac-Toe" using a virtual environment and PIP
+1. Create a program for playing "Tic-Tac-Toe" using a virtual environment and PIP </br>
+
+    Search from https://pypi.org/ - "pygame" and "numpy" directories
 <br/>
 <br/>
 2. Attach the bot to the tasks from the previous workshop:
