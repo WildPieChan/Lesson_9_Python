@@ -11,4 +11,3 @@
 2. Attach the bot to the tasks from the previous workshop:
 
 * Create a calculator for working with rational and complex numbers, organize a menu by adding a logging system to it;
-* Create a phone directory with the ability to import and export data in several formats.
